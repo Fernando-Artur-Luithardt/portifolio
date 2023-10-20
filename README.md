@@ -16,11 +16,13 @@
 
 <p>Aqui a seguir serão projetos que eu fiz do começo ao fim:</p>
 <div>
-  <div>Landing Page:</div>
-  <a href="https://www.infotab.net.br/" target"_blank">https://www.infotab.net.br/</a> 
-  <br></br>
-  <div>Agendamentos Barbearia (Em deploy, pode apresentar instabilidade)</div>
+  <div>AGENDAMENTOS BARBEARIA (Em deploy, pode apresentar instabilidade)</div>
+  <div>LARAVEL 9, BOOSTSTRAP 5, JQUERY, MYSQL, CSS, HTML5, PHP 8.2</div>
   <a href="http://www.wollmerbarber.com.br/" target="_blank">http://www.wollmerbarber.com.br/</a>
+  <br></br>
+  <div>LANDING PAGE:</div>
+  <div>BOOTSTRAP 5, TEMPLATE, BIBLIOTECAS EXTRAS FUNCIONAMENTO CARROUSEL<div>
+  <a href="https://www.infotab.net.br/" target"_blank">https://www.infotab.net.br/</a> 
 </div>
 <br>
 <div>
