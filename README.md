@@ -20,7 +20,7 @@
   <a href="https://www.infotab.net.br/" target"_blank">https://www.infotab.net.br/</a> 
   <br></br>
   <div>Agendamentos Barbearia (Em deploy, pode apresentar instabilidade)</div>
-  <a href="http://www.wollmerbarber.com.br/" target="_blank">http://www.wollmerbarber.com.br/</a>a>
+  <a href="http://www.wollmerbarber.com.br/" target="_blank">http://www.wollmerbarber.com.br/</a>
 </div>
 <br>
 <div>
