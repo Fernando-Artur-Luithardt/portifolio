@@ -28,7 +28,7 @@
 <div>
   <p>ESTUDOS:</p>
   <div>API - PHP PURO</div>
-  <a href="https://github.com/Fernando-Artur-Luithardt/Gerenciameento-de-contas-bancarias-API-PHP)https://github.com/Fernando-Artur-Luithardt/Gerenciameento-de-contas-bancarias-API-PHP" target"_blank">https://github.com/Fernando-Artur-Luithardt/Gerenciameento-de-contas-bancarias-API-PHP)https://github.com/Fernando-Artur-Luithardt/Gerenciameento-de-contas-bancarias-API-PHP</a>
+  <a href="https://github.com/Fernando-Artur-Luithardt/Gerenciameento-de-contas-bancarias-API-PHP" target"_blank">https://github.com/Fernando-Artur-Luithardt/Gerenciameento-de-contas-bancarias-API-PHP</a>
   <br></br>
   <div>LISTA DE COMPRAS - REACT</div>
   <a href="https://github.com/Fernando-Artur-Luithardt/lista-de-compras" target"_blank">https://github.com/Fernando-Artur-Luithardt/lista-de-compras</a>
