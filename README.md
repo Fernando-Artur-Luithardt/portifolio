@@ -2,15 +2,13 @@
 
 <h3>Possuo conhecimento em:</h3>
 <ul>
-  <li>PHP</li>
-  <li>LARAVEL</li>
+  <li>PHP 8.2</li>
+  <li>LARAVEL 10</li>
   <li>ZEND FRAMEWORK 2</li>
   <li>JQUERY</li>
   <li>JAVA SCRIPT</li>
   <li>MYSQL</li>
   <li>DEVOPS</li>
-  <li>NODE</li>
-  <li>PRISMA</li>
   <li>GIT</li>
 </ul>
 
@@ -20,8 +18,8 @@
   <div>LARAVEL 9, BOOSTSTRAP 5, JQUERY, MYSQL, CSS, HTML5, PHP 8.2, Laravel MVC e API</div><br>
   <div>API e sistema gerenciando multiplas bases de dados</div><br>
   <div>Base de dados, projeto completo (exceto ideia de design) e deploy feito exclusivamente por mim</div><br>
-  <div>Link abaixo conectado em uma base de testes, fique a vontade para utilizar!</div>
-  <a href="https://wollmer.infotab.net.br" target="_blank">https://wollmer.infotab.net.br</a>
+  <div>Link abaixo produção!</div>
+  <a href="https://agendamentosbagatoli.net.br" target="_blank">https://wollmer.infotab.net.br</a>
   <br></br>
   <div>LANDING PAGE:</div>
   <div>BOOTSTRAP 5, TEMPLATE, BIBLIOTECAS EXTRAS FUNCIONAMENTO CARROUSEL<div>
